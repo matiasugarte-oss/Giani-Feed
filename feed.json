@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-23T22:59:51.397272+00:00",
+  "generado": "2026-11-23T23:57:10.658372+00:00",
   "total": 426,
   "productos": [
     {
@@ -7930,7 +7930,7 @@
           "talle": "35 / Celeste",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
