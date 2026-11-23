@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-23T17:34:20.990542+00:00",
-  "total": 430,
+  "generado": "2026-11-23T19:10:14.653550+00:00",
+  "total": 426,
   "productos": [
     {
       "product_id": 7423951732779,
@@ -206,7 +206,7 @@
           "talle": "Marrón / Única",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -240,7 +240,7 @@
           "talle": "Negro / Única",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -415,176 +415,6 @@
       ]
     },
     {
-      "product_id": 15534772191275,
-      "handle": "sandalia-mujer-halieto-leopardo-fucsia",
-      "url": "https://gianidafirenze.cl/products/sandalia-mujer-halieto-leopardo-fucsia",
-      "nombre": "Sandalia Mujer / Halieto Leopardo Fucsia",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "SANDALIAS",
-      "descripcion": "Una propuesta audaz y llena de energía que fusiona carácter contemporáneo con tradición artesanal, esta sandalia para mujer destaca por su llamativa capellada en cuero con estampado leopardo fucsia. Su diseño de punta redonda y silueta bajo el tobillo se complementan con un práctico cierre elástico que aporta un calce rápido, flexible y cómodo. En su interior, el forro y la plantilla en cuero natural aseguran máxima respirabilidad, suavidad al contacto y un confort superior durante todo el día.\n\nSu estructura se apoya sobre una suela de goma flexible y adherente, acompañada por un taco de madera de 4 cm pintado a mano que aporta la elevación ideal y un sello artesanal inconfundible. Un calzado femenino de cuero elaborado a mano en Chile, perfecto para aportar personalidad, color y distinción a tus conjuntos de la temporada Primavera-Verano.\n\nTemp orada Primavera Verano 2027",
-      "caracteristicas": {
-        "Nombre": "Halieto C18",
-        "Color": "Leopardo Fucsia",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Suela": "Goma",
-        "Taco": "Madera pintado a mano",
-        "Altura taco": "4 cm",
-        "Punta": "Redonda",
-        "Horma": "Normal",
-        "Cierre": "Elástico",
-        "Altura": "Bajo el tobillo",
-        "Procedencia": "Hecho en Chile"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-halieto-leopardo-fucsia-sandalias-giani-dafirenze-589678.jpg?v=1795186094",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-halieto-leopardo-fucsia-sandalias-giani-dafirenze-796246.jpg?v=1795186105",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-halieto-leopardo-fucsia-sandalias-giani-dafirenze-616575.jpg?v=1795186115"
-      ],
-      "variantes": [
-        {
-          "variant_id": 68328688255019,
-          "sku": "GDF-PV27-HALIETO-C18-35",
-          "talle": "35 / Fucsia",
-          "precio": 89900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328688287787,
-          "sku": "GDF-PV27-HALIETO-C18-36",
-          "talle": "36 / Fucsia",
-          "precio": 89900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328688320555,
-          "sku": "GDF-PV27-HALIETO-C18-37",
-          "talle": "37 / Fucsia",
-          "precio": 89900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328688353323,
-          "sku": "GDF-PV27-HALIETO-C18-38",
-          "talle": "38 / Fucsia",
-          "precio": 89900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328688386091,
-          "sku": "GDF-PV27-HALIETO-C18-39",
-          "talle": "39 / Fucsia",
-          "precio": 89900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328688418859,
-          "sku": "GDF-PV27-HALIETO-C18-40",
-          "talle": "40 / Fucsia",
-          "precio": 89900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 15534762065963,
-      "handle": "sandalia-mujer-mielero-metalico",
-      "url": "https://gianidafirenze.cl/products/sandalia-mujer-mielero-metalico",
-      "nombre": "Sandalia Mujer / Mielero Metalico",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "SANDALIAS",
-      "descripcion": "Una propuesta luminosa y sofisticada que fusiona destellos contemporáneos con tradición artesanal, esta sandalia para mujer destaca por su refinada capellada en cuero de tono metálico. Su diseño de punta redonda y silueta bajo el tobillo con práctico calce slip on ofrece una estética moderna, cómoda y sumamente versátil. En su interior, el forro y la plantilla en cuero natural aseguran máxima respirabilidad, suavidad al contacto y un confort superior durante todo el día.\n\nSu estructura se apoya sobre una suela de goma flexible y adherente, acompañada por un taco de madera de 4 cm pintado a mano que aporta la elevación ideal y un sello artesanal inconfundible. Un calzado femenino de cuero elaborado a mano en Chile, perfecto para aportar brillo sutil, frescura y distinción a tus conjuntos de la temporada Primavera-Verano.\n\nTemp orada Primavera Verano 2027",
-      "caracteristicas": {
-        "Nombre": "Mielero C15",
-        "Color": "Metalico",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Suela": "Goma",
-        "Taco": "Madera pintado a mano",
-        "Altura taco": "4 cm",
-        "Punta": "Redonda",
-        "Horma": "Normal",
-        "Cierre": "Slip on",
-        "Altura": "Bajo el tobillo",
-        "Estilo": "Sandalia",
-        "Procedencia": "Hecho en Chile"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-mielero-metalico-sandalias-giani-dafirenze-781311.jpg?v=1795186119",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-mielero-metalico-sandalias-giani-dafirenze-544631.jpg?v=1795186090"
-      ],
-      "variantes": [
-        {
-          "variant_id": 68328674525227,
-          "sku": "GDF-PV27-MIELERO-C15-35",
-          "talle": "35 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328674557995,
-          "sku": "GDF-PV27-MIELERO-C15-36",
-          "talle": "36 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328674590763,
-          "sku": "GDF-PV27-MIELERO-C15-37",
-          "talle": "37 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328674623531,
-          "sku": "GDF-PV27-MIELERO-C15-38",
-          "talle": "38 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328674656299,
-          "sku": "GDF-PV27-MIELERO-C15-39",
-          "talle": "39 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68328674689067,
-          "sku": "GDF-PV27-MIELERO-C15-40",
-          "talle": "40 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
       "product_id": 15534748172331,
       "handle": "sandalia-mujer-sauco-leopardo-celeste",
       "url": "https://gianidafirenze.cl/products/sandalia-mujer-sauco-leopardo-celeste",
@@ -663,7 +493,7 @@
           "talle": "40 / Marrón",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -789,7 +619,7 @@
           "talle": "35 / Celeste",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -798,7 +628,7 @@
           "talle": "36 / Celeste",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -825,7 +655,7 @@
           "talle": "39 / Celeste",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -1012,91 +842,6 @@
       ]
     },
     {
-      "product_id": 15519145001003,
-      "handle": "zapato-mujer-carricero-metalico",
-      "url": "https://gianidafirenze.cl/products/zapato-mujer-carricero-metalico",
-      "nombre": "Zapato Mujer / Carricero Metalico",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "ZAPATOS",
-      "descripcion": "Una propuesta luminosa que fusiona modernidad y tradición artesanal, este zapato para mujer destaca por su refinada capellada en cuero de acabado metálico. Su estilizado diseño en punta y silueta bajo el tobillo incorporan un práctico ajuste con cierre que entrega firmeza y comodidad en cada paso, mientras que su forro y plantilla en cuero natural aseguran máxima respirabilidad, suavidad al contacto y un confort superior durante toda la jornada.\n\nSu estructura se apoya sobre una suela de goma flexible y adherente, acompañada por un taco de madera de 3,5 cm pintado a mano que aporta la elevación ideal, estabilidad y un sello artesanal inconfundible. Un calzado femenino de cuero elaborado a mano en Chile, perfecto para aportar brillo, elegancia y distinción a tus conjuntos de la temporada Primavera-Verano.",
-      "caracteristicas": {
-        "Nombre": "Carricero C18",
-        "Color": "Metalico",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Suela": "Goma",
-        "Taco": "Madera pintado a mano",
-        "Altura taco": "3,5 cm",
-        "Punta": "En punta",
-        "Horma": "Normal",
-        "Cierre": "Cierre",
-        "Altura": "Bajo el tobillo Zapato",
-        "Procedencia": "Hecho en Chile",
-        "Temporada": "Primavera Verano 2027"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-carricero-metalico-zapatos-giani-dafirenze-244502.jpg?v=1795206222",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-carricero-metalico-zapatos-giani-dafirenze-924592.jpg?v=1795206159"
-      ],
-      "variantes": [
-        {
-          "variant_id": 68266241130539,
-          "sku": "GDF-PV27-CARRICERO-C18-35",
-          "talle": "35 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266241163307,
-          "sku": "GDF-PV27-CARRICERO-C18-36",
-          "talle": "36 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266241196075,
-          "sku": "GDF-PV27-CARRICERO-C18-37",
-          "talle": "37 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266241228843,
-          "sku": "GDF-PV27-CARRICERO-C18-38",
-          "talle": "38 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266241261611,
-          "sku": "GDF-PV27-CARRICERO-C18-39",
-          "talle": "39 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266241294379,
-          "sku": "GDF-PV27-CARRICERO-C18-40",
-          "talle": "40 / Dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        }
-      ]
-    },
-    {
       "product_id": 15519128191019,
       "handle": "babucha-mujer-estrilda-leopardo-metalico",
       "url": "https://gianidafirenze.cl/products/babucha-mujer-estrilda-leopardo-metalico",
@@ -1236,7 +981,7 @@
           "talle": "37 / Dorado",
           "precio": 89900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -1264,93 +1009,6 @@
           "precio": 89900.0,
           "precio_tachado": null,
           "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 15519123963947,
-      "handle": "mocasin-mujer-rocio-celeste",
-      "url": "https://gianidafirenze.cl/products/mocasin-mujer-rocio-celeste",
-      "nombre": "Mocasin Mujer / Rocio Celeste",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "MOCASINES",
-      "descripcion": "Una expresión de suavidad y frescura atemporal, este mocasín para mujer destaca por su capellada en gamuza de delicado tono celeste. Su silueta bajo el tobillo de punta redonda y práctico diseño slip on ofrece un calce versátil y sofisticado, mientras que su forro y plantilla en cuero natural aseguran máxima respirabilidad, suavidad al contacto y confort durante toda la jornada.\n\nSu estructura flexible incorpora una suela de goma adherente y un sutil taco de madera de 1 cm pintado a mano, entregando ligereza en la pisada y un acabado artesanal distintivo. Un calzado femenino de cuero elaborado a mano en Chile, ideal para aportar textura, luminosidad y elegancia relajada a tus conjuntos de la temporada Primavera-Verano.",
-      "caracteristicas": {
-        "Nombre": "Rocio C4",
-        "Color": "Celeste",
-        "Capellada (material exterior)": "Gamuza",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Suela": "Goma",
-        "Taco": "Madera Pintado a mano",
-        "Altura taco": "1 cm",
-        "Punta": "Redonda",
-        "Horma": "Normal",
-        "Cierre": "Slip on",
-        "Altura": "Bajo el tobillo",
-        "Estilo": "Mocasin",
-        "Procedencia": "Hecho en Chile",
-        "Temporada": "Primavera Verano 2027"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/mocasin-mujer-rocio-celeste-mocasines-giani-dafirenze-270458.jpg?v=1795206125",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/mocasin-mujer-rocio-celeste-mocasines-giani-dafirenze-157858.jpg?v=1795206183",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/mocasin-mujer-rocio-celeste-mocasines-giani-dafirenze-299135.jpg?v=1795206140"
-      ],
-      "variantes": [
-        {
-          "variant_id": 68266157735979,
-          "sku": "GDF-PV27-ROCIO-C4-35",
-          "talle": "35 / Celeste",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266158784555,
-          "sku": "GDF-PV27-ROCIO-C4-36",
-          "talle": "36 / Celeste",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266158817323,
-          "sku": "GDF-PV27-ROCIO-C4-37",
-          "talle": "37 / Celeste",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266158850091,
-          "sku": "GDF-PV27-ROCIO-C4-38",
-          "talle": "38 / Celeste",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266158882859,
-          "sku": "GDF-PV27-ROCIO-C4-39",
-          "talle": "39 / Celeste",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 68266158915627,
-          "sku": "GDF-PV27-ROCIO-C4-40",
-          "talle": "40 / Celeste",
-          "precio": 99900.0,
-          "precio_tachado": null,
-          "disponible": true,
           "imagen": null
         }
       ]
@@ -1647,7 +1305,7 @@
         "Procedencia": "Hecho en Chile"
       },
       "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-fucsia-leopardo-babuchas-giani-dafirenze-300047.jpg?v=1795186086",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-fucsia-leopardo-babuchas-giani-dafirenze-300047.jpg?v=1795455851",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-fucsia-leopardo-babuchas-giani-dafirenze-147134.jpg?v=1795186122",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-fucsia-leopardo-babuchas-giani-dafirenze-606557.jpg?v=1795186097"
       ],
@@ -1685,7 +1343,7 @@
           "talle": "38 / Fucsia",
           "precio": 89900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -1703,7 +1361,7 @@
           "talle": "40 / Fucsia",
           "precio": 89900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -14719,8 +14377,8 @@
         "Procedencia": "Hecho en Chile"
       },
       "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-282795.jpg?v=1787620119",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-371458.jpg?v=1787620106",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/pibi_2.png?v=1795456335",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/pibi.png?v=1795456066",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-441298.jpg?v=1787607211",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-765376.jpg?v=1787607213",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-681880.jpg?v=1787607192"
@@ -15865,8 +15523,7 @@
         "Procedencia": "Hecho en Chile"
       },
       "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-787481.jpg?v=1787593515",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-550980.jpg?v=1787593513",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/gdf_f09eef80-0066-4c20-8dd6-ede4906d3537.png?v=1795456547",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-313061.jpg?v=1787607146",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-719532.jpg?v=1787607246",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-114055.jpg?v=1787607068"
@@ -18322,7 +17979,7 @@
           "talle": "40 / Negro",
           "precio": 84915.0,
           "precio_tachado": 99900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
