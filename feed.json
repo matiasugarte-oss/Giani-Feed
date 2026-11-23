@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-23T20:58:59.013921+00:00",
+  "generado": "2026-11-23T21:58:40.918685+00:00",
   "total": 426,
   "productos": [
     {
@@ -1458,7 +1458,7 @@
           "talle": "40 / Negro",
           "precio": 80910.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -10440,7 +10440,7 @@
           "talle": "35 / Beige",
           "precio": 80910.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -13326,7 +13326,7 @@
           "talle": "35 / Marrón",
           "precio": 99900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
