@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-23T19:10:14.653550+00:00",
+  "generado": "2026-11-23T20:10:49.043050+00:00",
   "total": 426,
   "productos": [
     {
@@ -9221,7 +9221,7 @@
           "talle": "40 / Negro",
           "precio": 80910.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -10389,7 +10389,7 @@
           "talle": "39 / Azul",
           "precio": 80910.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -14377,8 +14377,8 @@
         "Procedencia": "Hecho en Chile"
       },
       "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/pibi_2.png?v=1795456335",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/pibi.png?v=1795456066",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-796916.jpg?v=1795463196",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-952751.jpg?v=1795463183",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-441298.jpg?v=1787607211",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-765376.jpg?v=1787607213",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-amarillo-niquel-babuchas-giani-dafirenze-681880.jpg?v=1787607192"
@@ -15523,7 +15523,7 @@
         "Procedencia": "Hecho en Chile"
       },
       "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/gdf_f09eef80-0066-4c20-8dd6-ede4906d3537.png?v=1795456547",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-733302.jpg?v=1795463211",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-313061.jpg?v=1787607146",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-719532.jpg?v=1787607246",
         "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-pibi-leopardo-negro-babuchas-giani-dafirenze-114055.jpg?v=1787607068"
