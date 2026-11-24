@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T12:05:42.095309+00:00",
+  "generado": "2026-11-24T13:25:31.656354+00:00",
   "total": 426,
   "productos": [
     {
@@ -13709,7 +13709,7 @@
           "talle": "38 / Negro",
           "precio": 89900.0,
           "precio_tachado": null,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
