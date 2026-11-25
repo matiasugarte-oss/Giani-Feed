@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-25T21:04:03.167491+00:00",
+  "generado": "2026-11-25T22:03:58.151638+00:00",
   "total": 415,
   "productos": [
     {
@@ -1560,7 +1560,7 @@
           "variant_id": 43268150460459,
           "sku": "DF-PV25-PRAT-C1-39",
           "talle": "39 / beige",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -1569,7 +1569,7 @@
           "variant_id": 43268150493227,
           "sku": "DF-PV25-PRAT-C1-40",
           "talle": "40 / beige",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -1578,7 +1578,7 @@
           "variant_id": 43268150525995,
           "sku": "DF-PV25-PRAT-C1-41",
           "talle": "41 / beige",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -1587,7 +1587,7 @@
           "variant_id": 43268150558763,
           "sku": "DF-PV25-PRAT-C1-42",
           "talle": "42 / beige",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -1596,7 +1596,7 @@
           "variant_id": 43268150591531,
           "sku": "DF-PV25-PRAT-C1-43",
           "talle": "43 / beige",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -1605,7 +1605,7 @@
           "variant_id": 43268150624299,
           "sku": "DF-PV25-PRAT-C1-44",
           "talle": "44 / beige",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -16574,7 +16574,7 @@
           "talle": "40 / Púrpura",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -31536,7 +31536,7 @@
           "variant_id": 43268150067243,
           "sku": "DF-PV25-JULIO-C2-39",
           "talle": "39 / gris",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31545,7 +31545,7 @@
           "variant_id": 43268150100011,
           "sku": "DF-PV25-JULIO-C2-40",
           "talle": "40 / gris",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31554,7 +31554,7 @@
           "variant_id": 43268150132779,
           "sku": "DF-PV25-JULIO-C2-41",
           "talle": "41 / gris",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31563,7 +31563,7 @@
           "variant_id": 43268150165547,
           "sku": "DF-PV25-JULIO-C2-42",
           "talle": "42 / gris",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31572,7 +31572,7 @@
           "variant_id": 43268150198315,
           "sku": "DF-PV25-JULIO-C2-43",
           "talle": "43 / gris",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31581,7 +31581,7 @@
           "variant_id": 43268150231083,
           "sku": "DF-PV25-JULIO-C2-44",
           "talle": "44 / gris",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31622,7 +31622,7 @@
           "variant_id": 43268150263851,
           "sku": "DF-PV25-JULIO-C1-39",
           "talle": "39 / verde",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31631,7 +31631,7 @@
           "variant_id": 43268150296619,
           "sku": "DF-PV25-JULIO-C1-40",
           "talle": "40 / verde",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31640,7 +31640,7 @@
           "variant_id": 43268150329387,
           "sku": "DF-PV25-JULIO-C1-41",
           "talle": "41 / verde",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31649,7 +31649,7 @@
           "variant_id": 43268150362155,
           "sku": "DF-PV25-JULIO-C1-42",
           "talle": "42 / verde",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31658,7 +31658,7 @@
           "variant_id": 43268150394923,
           "sku": "DF-PV25-JULIO-C1-43",
           "talle": "43 / verde",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31667,7 +31667,7 @@
           "variant_id": 43268150427691,
           "sku": "DF-PV25-JULIO-C1-44",
           "talle": "44 / verde",
-          "precio": 439945.0,
+          "precio": 43945.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31708,7 +31708,7 @@
           "variant_id": 43268150657067,
           "sku": "DF-PV25-LILO-C2-39",
           "talle": "39 / negro",
-          "precio": 439945.0,
+          "precio": 79990.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31717,7 +31717,7 @@
           "variant_id": 43268150689835,
           "sku": "DF-PV25-LILO-C2-40",
           "talle": "40 / negro",
-          "precio": 439945.0,
+          "precio": 79990.0,
           "precio_tachado": 79990.0,
           "disponible": true,
           "imagen": null
@@ -31726,7 +31726,7 @@
           "variant_id": 43268150722603,
           "sku": "DF-PV25-LILO-C2-41",
           "talle": "41 / negro",
-          "precio": 439945.0,
+          "precio": 79990.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31735,7 +31735,7 @@
           "variant_id": 43268150755371,
           "sku": "DF-PV25-LILO-C2-42",
           "talle": "42 / negro",
-          "precio": 439945.0,
+          "precio": 79990.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31744,7 +31744,7 @@
           "variant_id": 43268150788139,
           "sku": "DF-PV25-LILO-C2-43",
           "talle": "43 / negro",
-          "precio": 439945.0,
+          "precio": 79990.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31753,7 +31753,7 @@
           "variant_id": 43268150820907,
           "sku": "DF-PV25-LILO-C2-44",
           "talle": "44 / negro",
-          "precio": 439945.0,
+          "precio": 79990.0,
           "precio_tachado": 79990.0,
           "disponible": false,
           "imagen": null
@@ -31794,7 +31794,7 @@
           "variant_id": 43268149837867,
           "sku": "DF-PV25-MARTIN-C1-39",
           "talle": "39 / negro",
-          "precio": 494945.0,
+          "precio": 49445.0,
           "precio_tachado": 89990.0,
           "disponible": false,
           "imagen": null
@@ -31803,7 +31803,7 @@
           "variant_id": 43268149870635,
           "sku": "DF-PV25-MARTIN-C1-40",
           "talle": "40 / negro",
-          "precio": 494945.0,
+          "precio": 49445.0,
           "precio_tachado": 89990.0,
           "disponible": true,
           "imagen": null
@@ -31812,7 +31812,7 @@
           "variant_id": 43268149903403,
           "sku": "DF-PV25-MARTIN-C1-41",
           "talle": "41 / negro",
-          "precio": 494945.0,
+          "precio": 49445.0,
           "precio_tachado": 89990.0,
           "disponible": false,
           "imagen": null
@@ -31821,7 +31821,7 @@
           "variant_id": 43268149936171,
           "sku": "DF-PV25-MARTIN-C1-42",
           "talle": "42 / negro",
-          "precio": 494945.0,
+          "precio": 49445.0,
           "precio_tachado": 89990.0,
           "disponible": false,
           "imagen": null
@@ -31830,7 +31830,7 @@
           "variant_id": 43268149968939,
           "sku": "DF-PV25-MARTIN-C1-43",
           "talle": "43 / negro",
-          "precio": 494945.0,
+          "precio": 49445.0,
           "precio_tachado": 89990.0,
           "disponible": false,
           "imagen": null
@@ -31839,7 +31839,7 @@
           "variant_id": 43268150001707,
           "sku": "DF-PV25-MARTIN-C1-44",
           "talle": "44 / negro",
-          "precio": 494945.0,
+          "precio": 49445.0,
           "precio_tachado": 89990.0,
           "disponible": true,
           "imagen": null
