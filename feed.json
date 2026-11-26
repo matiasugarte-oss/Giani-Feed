@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-26T13:29:20.921303+00:00",
+  "generado": "2026-11-26T15:11:16.803828+00:00",
   "total": 412,
   "productos": [
     {
@@ -5192,7 +5192,7 @@
           "talle": "35 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -5210,7 +5210,7 @@
           "talle": "37 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
@@ -7450,7 +7450,7 @@
           "talle": "39 / Marrón",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
@@ -8700,7 +8700,7 @@
           "talle": "40 / Negro",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -9876,7 +9876,7 @@
           "talle": "40 / Negro",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -10857,7 +10857,7 @@
           "talle": "40 / Marrón",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -12187,7 +12187,7 @@
           "talle": "35 / Marrón",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
@@ -12543,7 +12543,7 @@
           "talle": "35 / Negro",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
@@ -16840,7 +16840,7 @@
           "talle": "40 / Negro",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -19058,7 +19058,7 @@
           "talle": "35 / Negro",
           "precio": 77935.0,
           "precio_tachado": 119900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -23448,7 +23448,7 @@
           "talle": "38 / Azul",
           "precio": 49445.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
