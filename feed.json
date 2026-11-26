@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-26T17:19:24.369970+00:00",
-  "total": 411,
+  "generado": "2026-11-26T19:07:56.395490+00:00",
+  "total": 410,
   "productos": [
     {
       "product_id": 7428174250027,
@@ -1437,92 +1437,6 @@
       ]
     },
     {
-      "product_id": 7817877061675,
-      "handle": "botin-mujer-berta-negro",
-      "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro",
-      "nombre": "Botin Mujer / Berta Negro",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "BOTINES",
-      "descripcion": "El botín de cuero para mujer Berta Negro combina diseño sobrio y funcionalidad para el uso diario. Su tonalidad negra, clásica y versátil, lo convierte en un básico dentro del calzado femenino de cuero, fácil de integrar a looks urbanos y más formales.\n\nConfeccionado en cuero natural y pensado para un calce cómodo, ofrece estabilidad y confort durante la jornada. Un botín femenino de cuero que prioriza materialidad, diseño atemporal y practicidad real en cada paso\n\nTemporada Otoño Invierno 2026. Hecho en Chile",
-      "caracteristicas": {
-        "Nombre": "Berta C7",
-        "Color": "Negro",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma Amo Mis Giani",
-        "Taco": "Madera pintado a mano",
-        "Altura del taco": "4,5 cm",
-        "Punta": "Redonda",
-        "Horma": "Normal",
-        "Tipo de cierre": "Broche",
-        "Altura de la caña": "Sobre el tobillo",
-        "Estilo": "Botin"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-583019.jpg?v=1772489692",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-391568.jpg?v=1772489692",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-514168.jpg?v=1772477179",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-botines-giani-dafirenze-814685.jpg?v=1772477210"
-      ],
-      "variantes": [
-        {
-          "variant_id": 43268030791723,
-          "sku": "GDF-OI26-BERTA-C7-35",
-          "talle": "35 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268030824491,
-          "sku": "GDF-OI26-BERTA-C7-36",
-          "talle": "36 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268030857259,
-          "sku": "GDF-OI26-BERTA-C7-37",
-          "talle": "37 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268030890027,
-          "sku": "GDF-OI26-BERTA-C7-38",
-          "talle": "38 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268030922795,
-          "sku": "GDF-OI26-BERTA-C7-39",
-          "talle": "39 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268030955563,
-          "sku": "GDF-OI26-BERTA-C7-40",
-          "talle": "40 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
       "product_id": 15470095466539,
       "handle": "bolso-de-viaje-mujer-aitana-print",
       "url": "https://gianidafirenze.cl/products/bolso-de-viaje-mujer-aitana-print",
@@ -1629,7 +1543,7 @@
           "talle": "35 / Marrón",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -5142,7 +5056,7 @@
           "talle": "39 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -7107,7 +7021,7 @@
           "talle": "40 / Marrón",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -7639,7 +7553,7 @@
           "talle": "40 / Beige",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -10253,7 +10167,7 @@
       "tipo_shopify": "SANDALIAS",
       "descripcion": "Pensada para añadir una nota de vitalidad y encanto a la rutina diaria, esta sandalia plana de cuero para mujer destaca por su atractiva combinación de tonos rojo fucsia y su equilibrada punta redonda. Su sistema de cierre con hebilla ofrece un calce seguro y personalizado, al tiempo que el forro interior y la plantilla de cuero natural garantizan total frescura y comodidad al contacto con la piel.\n\nLa suela de goma antiderrapante unida al taco de madera de 1 cm pintado a mano entrega una caminata liviana, estable y suave para acompañar tus actividades durante los días de calor. Un calzado femenino de cuero confeccionado a mano en Chile con el sello artesanal de Giani Dafirenze, perfecto para enriquecer tus atuendos de Primavera-Verano.\n\nTemp orada Primavera Verano 2027",
       "caracteristicas": {
-        "Nombre": "Octay C5",
+        "Nombre": "Octay C6",
         "Color": "Rojo Fucsia",
         "Capellada (material exterior)": "Cuero",
         "Forro (material interior)": "Cuero",
@@ -12998,7 +12912,7 @@
           "talle": "36 / Marrón",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
@@ -16121,7 +16035,7 @@
           "talle": "39 / Negro",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
@@ -16754,7 +16668,7 @@
           "talle": "40 / Negro",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -18794,7 +18708,7 @@
           "talle": "35 / Negro",
           "precio": 84435.0,
           "precio_tachado": 129900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         },
         {
