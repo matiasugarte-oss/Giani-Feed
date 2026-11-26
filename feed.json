@@ -1,92 +1,7 @@
 {
-  "generado": "2026-11-26T22:02:05.138655+00:00",
-  "total": 409,
+  "generado": "2026-11-26T23:05:38.817546+00:00",
+  "total": 408,
   "productos": [
-    {
-      "product_id": 7428174250027,
-      "handle": "zapato-mujer-pixon-celeste",
-      "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste",
-      "nombre": "Zapato Mujer / Pixon Celeste",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "ZAPATOS",
-      "descripcion": "Pixon Celeste es un zapato que transmite ligereza y frescura. Su tono celeste, trabajado en cuero natural por artesanos chilenos, evoca cielos despejados y la energía vibrante del verano. Con una silueta moderna y cómoda, se convierte en la pieza ideal para quienes buscan destacar con un detalle de color sutil pero lleno de personalidad. Versátil y duradero, acompaña tanto en el día a día como en ocasiones especiales.\n\nSlip On\n\nHecho en Chile",
-      "caracteristicas": {
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma Amo Mis Giani",
-        "Taco": "Madera pintada a mano",
-        "Altura del Taco": "2 cm",
-        "Punta": "Puntiaguda",
-        "Altura de la caña": "Bajo el tobillo",
-        "Estilo": "Zapato"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-469411.jpg?v=1756151289",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-909590.jpg?v=1759151766",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-300562.jpg?v=1759151766",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-860006.jpg?v=1759151766",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-380261.jpg?v=1759151766",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-223055.jpg?v=1759151766",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-926435.jpg?v=1759151766"
-      ],
-      "variantes": [
-        {
-          "variant_id": 43268124672043,
-          "sku": "GDF-PV26-PIXON-C11-35",
-          "talle": "35 / Celeste",
-          "precio": 59940.0,
-          "precio_tachado": 99900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268124704811,
-          "sku": "GDF-PV26-PIXON-C11-36",
-          "talle": "36 / Celeste",
-          "precio": 59940.0,
-          "precio_tachado": 99900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268124737579,
-          "sku": "GDF-PV26-PIXON-C11-37",
-          "talle": "37 / Celeste",
-          "precio": 59940.0,
-          "precio_tachado": 99900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268124770347,
-          "sku": "GDF-PV26-PIXON-C11-38",
-          "talle": "38 / Celeste",
-          "precio": 59940.0,
-          "precio_tachado": 99900.0,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268124803115,
-          "sku": "GDF-PV26-PIXON-C11-39",
-          "talle": "39 / Celeste",
-          "precio": 59940.0,
-          "precio_tachado": 99900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268124835883,
-          "sku": "GDF-PV26-PIXON-C11-40",
-          "talle": "40 / Celeste",
-          "precio": 59940.0,
-          "precio_tachado": 99900.0,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
     {
       "product_id": 15551139315755,
       "handle": "mochila-mujer-sauce-print",
@@ -4952,7 +4867,7 @@
           "talle": "37 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -16010,7 +15925,7 @@
           "talle": "36 / Marrón",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
