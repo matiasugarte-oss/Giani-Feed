@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-26T19:07:56.395490+00:00",
-  "total": 410,
+  "generado": "2026-11-26T20:13:51.708536+00:00",
+  "total": 409,
   "productos": [
     {
       "product_id": 7428174250027,
@@ -82,92 +82,6 @@
           "talle": "40 / Celeste",
           "precio": 59940.0,
           "precio_tachado": 99900.0,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 7819325046827,
-      "handle": "botin-mujer-angu-taupe",
-      "url": "https://gianidafirenze.cl/products/botin-mujer-angu-taupe",
-      "nombre": "Botin Mujer / Angu Taupe Cafe",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "BOTINES",
-      "descripcion": "El botín de cuero para mujer Angu Taupe Café combina una paleta neutra con un diseño sobrio y funcional. La mezcla de tonos taupe y café aporta profundidad y versatilidad, ideal para integrar al calzado femenino de cuero en distintos looks cotidianos.\n\nConfeccionado en cuero natural y pensado para un calce cómodo, ofrece estabilidad y confort durante el día. Un botín femenino de cuero que prioriza materialidad, diseño atemporal y uso real en la rutina diaria.\n\nTemporada Otoño Invierno 2026. Hecho en Chile",
-      "caracteristicas": {
-        "Nombre": "Angu C15",
-        "Color": "Taupe Cafe",
-        "Capellada (material exterior)": "Cuero y reno",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma Amo Mis Giani",
-        "Taco": "Madera pintado a mano",
-        "Altura del taco": "2 cm",
-        "Punta": "Puntiaguda",
-        "Horma": "Normal",
-        "Tipo de cierre": "Elástico",
-        "Altura de la caña": "Sobre el tobillo",
-        "Estilo": "Zapatos"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-759933.jpg?v=1772490154",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-713846.jpg?v=1772490154",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-404869.jpg?v=1772490154",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-angu-taupe-cafe-botines-giani-dafirenze-394108.jpg?v=1772490154"
-      ],
-      "variantes": [
-        {
-          "variant_id": 43268007624747,
-          "sku": "GDF-OI26-ANGU-C15-35",
-          "talle": "35 / Marrón",
-          "precio": 59950.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268007657515,
-          "sku": "GDF-OI26-ANGU-C15-36",
-          "talle": "36 / Marrón",
-          "precio": 59950.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268007690283,
-          "sku": "GDF-OI26-ANGU-C15-37",
-          "talle": "37 / Marrón",
-          "precio": 59950.0,
-          "precio_tachado": 119900.0,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268007723051,
-          "sku": "GDF-OI26-ANGU-C15-38",
-          "talle": "38 / Marrón",
-          "precio": 59950.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268007755819,
-          "sku": "GDF-OI26-ANGU-C15-39",
-          "talle": "39 / Marrón",
-          "precio": 59950.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268007788587,
-          "sku": "GDF-OI26-ANGU-C15-40",
-          "talle": "40 / Marrón",
-          "precio": 59950.0,
-          "precio_tachado": 119900.0,
           "disponible": false,
           "imagen": null
         }
@@ -5029,7 +4943,7 @@
           "talle": "36 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
