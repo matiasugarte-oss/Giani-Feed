@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-26T12:09:06.132324+00:00",
-  "total": 414,
+  "generado": "2026-11-26T13:29:20.921303+00:00",
+  "total": 412,
   "productos": [
     {
       "product_id": 7428174250027,
@@ -1603,96 +1603,6 @@
           "talle": "40 / Negro",
           "precio": 65945.0,
           "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 7460405575723,
-      "handle": "babucha-mujer-bosco-print",
-      "url": "https://gianidafirenze.cl/products/babucha-mujer-bosco-print",
-      "nombre": "Babucha Mujer / Bosco Print",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "BABUCHAS",
-      "descripcion": "La babucha Bosco Print aporta un toque moderno y distintivo a tu clóset. Su estampado en tendencia convierte a esta babucha en la protagonista de cualquier outfit, sin perder comodidad ni versatilidad. Diseñada para mujeres que buscan una babucha con personalidad, es perfecta para sumar carácter y estilo a cada paso.",
-      "caracteristicas": {
-        "Nombre del modelo": "Bosco C2",
-        "Color": "Print",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma",
-        "Taco": "Goma",
-        "Altura del taco": "2 cm aprox",
-        "Punta": "Redonda",
-        "Altura de la caña": "Sin caña",
-        "Estilo del calzado": "Babucha",
-        "Tipo de cierre": "Slip On",
-        "Procedencia": "Importado",
-        "Temporada": "Primavera Verano 2026"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-205261.jpg?v=1765822244",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-455236.jpg?v=1765819723",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-566189.jpg?v=1765819723",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-863893.jpg?v=1765819723",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-344823.jpg?v=1765819723",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-217823.jpg?v=1765819723",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-bosco-print-babuchas-giani-dafirenze-635105.jpg?v=1765819723"
-      ],
-      "variantes": [
-        {
-          "variant_id": 43268122214443,
-          "sku": "GDF-PV26-BOSCO-C2-35",
-          "talle": "35 / Marrón",
-          "precio": 38445.0,
-          "precio_tachado": 69900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268122247211,
-          "sku": "GDF-PV26-BOSCO-C2-36",
-          "talle": "36 / Marrón",
-          "precio": 38445.0,
-          "precio_tachado": 69900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268122279979,
-          "sku": "GDF-PV26-BOSCO-C2-37",
-          "talle": "37 / Marrón",
-          "precio": 38445.0,
-          "precio_tachado": 69900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268122312747,
-          "sku": "GDF-PV26-BOSCO-C2-38",
-          "talle": "38 / Marrón",
-          "precio": 38445.0,
-          "precio_tachado": 69900.0,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268122345515,
-          "sku": "GDF-PV26-BOSCO-C2-39",
-          "talle": "39 / Marrón",
-          "precio": 38445.0,
-          "precio_tachado": 69900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268122378283,
-          "sku": "GDF-PV26-BOSCO-C2-40",
-          "talle": "40 / Marrón",
-          "precio": 38445.0,
-          "precio_tachado": 69900.0,
           "disponible": false,
           "imagen": null
         }
@@ -7638,7 +7548,7 @@
           "talle": "40 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -20008,7 +19918,7 @@
           "talle": "40 / Azul",
           "precio": 74925.0,
           "precio_tachado": 99900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -23641,7 +23551,7 @@
           "talle": "40 / Plateado",
           "precio": 43945.0,
           "precio_tachado": 79900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -30823,88 +30733,6 @@
           "precio": 46695.0,
           "precio_tachado": 84900.0,
           "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 6550181543979,
-      "handle": "zapatilla-puelo-c4",
-      "url": "https://gianidafirenze.cl/products/zapatilla-puelo-c4",
-      "nombre": "Zapatilla Hombre / Puelo Burdeo",
-      "marca": "Dafirenze",
-      "tipo_shopify": "ZAPATILLAS",
-      "descripcion": "Hecho en Chile\n\nDESCRIPCIÓN\n\nNuestro proceso de manufactura artesanal garantiza la atención meticulosa a cada detalle. Desde la selección de los mejores materiales hasta el último acabado, cada paso se lleva a cabo con precisión y dedicación. El resultado es un zapato de cuero de calidad incomparable, que refleja la tradición y pasión de nuestros artesanos.",
-      "caracteristicas": {
-        "Nombre del modelo": "Puelo C4",
-        "Color": "Burdeo",
-        "Capellada (material exterior)": "Cuero Reno",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma",
-        "Cierre": "Cordón",
-        "Estilo": "Zapatilla"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-483520.jpg?v=1711688497",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-961807.jpg?v=1711688666",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-686433.jpg?v=1711688613",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-108700.jpg?v=1711688515",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapatilla-hombre-puelo-burdeo-zapatillas-dafirenze-455564.jpg?v=1711688451"
-      ],
-      "variantes": [
-        {
-          "variant_id": 39286215213099,
-          "sku": "DF-OI20-PUELO-C4-40",
-          "talle": "40",
-          "precio": 36795.0,
-          "precio_tachado": 66900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 39286215245867,
-          "sku": "DF-OI20-PUELO-C4-41",
-          "talle": "41",
-          "precio": 36795.0,
-          "precio_tachado": 66900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 39286215278635,
-          "sku": "DF-OI20-PUELO-C4-42",
-          "talle": "42",
-          "precio": 36795.0,
-          "precio_tachado": 66900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 39286215311403,
-          "sku": "DF-OI20-PUELO-C4-43",
-          "talle": "43",
-          "precio": 36795.0,
-          "precio_tachado": 66900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 39286215344171,
-          "sku": "DF-OI20-PUELO-C4-44",
-          "talle": "44",
-          "precio": 36795.0,
-          "precio_tachado": 66900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 39286215376939,
-          "sku": "DF-OI20-PUELO-C4-45",
-          "talle": "45",
-          "precio": 36795.0,
-          "precio_tachado": 66900.0,
-          "disponible": true,
           "imagen": null
         }
       ]
