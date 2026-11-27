@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T01:28:19.393581+00:00",
-  "total": 408,
+  "generado": "2026-11-27T03:05:57.985491+00:00",
+  "total": 407,
   "productos": [
     {
       "product_id": 15551139315755,
@@ -4807,94 +4807,6 @@
           "precio": 67425.0,
           "precio_tachado": 89900.0,
           "disponible": true,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 8035546365995,
-      "handle": "babucha-mujer-guindo-beige",
-      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige",
-      "nombre": "Babucha Mujer / Guindo Beige",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "BABUCHAS",
-      "descripcion": "Diseñada para construir estilismos luminosos, sobrios y altamente versátiles, esta babucha de cuero para mujer resalta por su suave tonalidad beige y su refinada silueta en punta. Su correa regulable con hebilla bajo el tobillo proporciona una sujeción firme y adaptada a la anatomía del pie, mientras que el forro y la plantilla de cuero natural cuidan la piel, ofreciendo suavidad, flexibilidad y máxima respirabilidad en jornadas cálidas.\n\nSu base se compone de una suela de goma antiderrapante y un taco de madera de 3 cm pintado a mano, entregando ligereza, absorción del impacto y un soporte estable en todo momento. Un calzado femenino de cuero elaborado artesanalmente en Chile, perfecto para complementar vestidos, faldas y pantalones neutros durante la temporada Primavera-Verano.",
-      "caracteristicas": {
-        "Nombre": "Guindo C21",
-        "Color": "Beige",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Suela": "Goma",
-        "Taco": "Madera Pintado a mano",
-        "Altura taco": "3 cm",
-        "Punta": "En punta",
-        "Horma": "Normal",
-        "Cierre": "Hebilla",
-        "Altura": "Bajo el tobillo",
-        "Estilo": "Babucha",
-        "Procedencia": "Hecho en Chile",
-        "Temporada": "Primavera Verano 2027"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-guindo-beige-babuchas-giani-dafirenze-681761.jpg?v=1794868866",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-guindo-beige-babuchas-giani-dafirenze-716043.jpg?v=1794868748",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-guindo-beige-zapatos-giani-dafirenze-662508.jpg?v=1786461209",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-guindo-beige-zapatos-giani-dafirenze-788112.jpg?v=1786461241"
-      ],
-      "variantes": [
-        {
-          "variant_id": 44657315905579,
-          "sku": "GDF-PV27-GUINDO-C21-35",
-          "talle": "35 / Beige",
-          "precio": 67425.0,
-          "precio_tachado": 89900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 44657466540075,
-          "sku": "GDF-PV27-GUINDO-C21-36",
-          "talle": "36 / Beige",
-          "precio": 67425.0,
-          "precio_tachado": 89900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 44657466572843,
-          "sku": "GDF-PV27-GUINDO-C21-37",
-          "talle": "37 / Beige",
-          "precio": 67425.0,
-          "precio_tachado": 89900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 44657466605611,
-          "sku": "GDF-PV27-GUINDO-C21-38",
-          "talle": "38 / Beige",
-          "precio": 67425.0,
-          "precio_tachado": 89900.0,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 44657466638379,
-          "sku": "GDF-PV27-GUINDO-C21-39",
-          "talle": "39 / Beige",
-          "precio": 67425.0,
-          "precio_tachado": 89900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 44657466671147,
-          "sku": "GDF-PV27-GUINDO-C21-40",
-          "talle": "40 / Beige",
-          "precio": 67425.0,
-          "precio_tachado": 89900.0,
-          "disponible": false,
           "imagen": null
         }
       ]
@@ -15864,7 +15776,7 @@
           "talle": "39 / Negro",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
