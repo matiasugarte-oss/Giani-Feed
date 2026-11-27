@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-27T11:00:38.684097+00:00",
-  "total": 406,
+  "generado": "2026-11-27T12:04:33.213868+00:00",
+  "total": 405,
   "productos": [
     {
       "product_id": 15551139315755,
@@ -15661,7 +15661,7 @@
           "talle": "36 / Negro",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -27884,93 +27884,6 @@
           "precio": 65945.0,
           "precio_tachado": 119900.0,
           "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 7819047239723,
-      "handle": "botin-mujer-berta-negro-metalico",
-      "url": "https://gianidafirenze.cl/products/botin-mujer-berta-negro-metalico",
-      "nombre": "Botin Mujer / Berta Negro Metálico",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "BOTINES",
-      "descripcion": "El botín de cuero para mujer Berta Negro Metálico combina un diseño sobrio con un acabado sutilmente brillante que aporta carácter sin perder versatilidad. Su tonalidad oscura con efecto metálico lo convierte en una propuesta actual dentro del calzado femenino de cuero, ideal para elevar looks cotidianos.\n\nConfeccionado en cuero natural y pensado para un calce cómodo, ofrece estabilidad y confort durante la jornada. Un botín femenino de cuero que equilibra materialidad, diseño atemporal y un detalle distintivo.\n\nTemporada Otoño Invierno 2026. Hecho en Chile",
-      "caracteristicas": {
-        "Nombre": "Berta C9",
-        "Color": "Negro Metalico",
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma Amo Mis Giani",
-        "Taco": "Madera pintado a mano",
-        "Altura del taco": "4,5 cm",
-        "Punta": "Redonda",
-        "Horma": "Normal",
-        "Tipo de cierre": "Broche",
-        "Altura de la caña": "Sobre el tobillo",
-        "Estilo": "Botin"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-859868.jpg?v=1772490080",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-161407.jpg?v=1772490080",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-652729.jpg?v=1772490080",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-955100.jpg?v=1772477139",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/botin-mujer-berta-negro-metalico-botines-giani-dafirenze-904252.jpg?v=1772477122"
-      ],
-      "variantes": [
-        {
-          "variant_id": 43268026466347,
-          "sku": "GDF-OI26-BERTA-C9-35",
-          "talle": "35 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268026499115,
-          "sku": "GDF-OI26-BERTA-C9-36",
-          "talle": "36 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268026531883,
-          "sku": "GDF-OI26-BERTA-C9-37",
-          "talle": "37 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268026564651,
-          "sku": "GDF-OI26-BERTA-C9-38",
-          "talle": "38 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268026597419,
-          "sku": "GDF-OI26-BERTA-C9-39",
-          "talle": "39 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268026630187,
-          "sku": "GDF-OI26-BERTA-C9-40",
-          "talle": "40 / Negro",
-          "precio": 65945.0,
-          "precio_tachado": 119900.0,
-          "disponible": true,
           "imagen": null
         }
       ]
