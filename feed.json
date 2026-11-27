@@ -1,7 +1,180 @@
 {
-  "generado": "2026-11-27T13:25:15.563748+00:00",
-  "total": 405,
+  "generado": "2026-11-27T15:05:40.529671+00:00",
+  "total": 406,
   "productos": [
+    {
+      "product_id": 7428174250027,
+      "handle": "zapato-mujer-pixon-celeste",
+      "url": "https://gianidafirenze.cl/products/zapato-mujer-pixon-celeste",
+      "nombre": "Zapato Mujer / Pixon Celeste",
+      "marca": "Giani Dafirenze",
+      "tipo_shopify": "ZAPATOS",
+      "descripcion": "Pixon Celeste es un zapato que transmite ligereza y frescura. Su tono celeste, trabajado en cuero natural por artesanos chilenos, evoca cielos despejados y la energía vibrante del verano. Con una silueta moderna y cómoda, se convierte en la pieza ideal para quienes buscan destacar con un detalle de color sutil pero lleno de personalidad. Versátil y duradero, acompaña tanto en el día a día como en ocasiones especiales.\n\nSlip On\n\nHecho en Chile",
+      "caracteristicas": {
+        "Capellada (material exterior)": "Cuero",
+        "Forro (material interior)": "Cuero",
+        "Plantilla": "Cuero",
+        "Planta (suela)": "Goma Amo Mis Giani",
+        "Taco": "Madera pintada a mano",
+        "Altura del Taco": "2 cm",
+        "Punta": "Puntiaguda",
+        "Altura de la caña": "Bajo el tobillo",
+        "Estilo": "Zapato"
+      },
+      "imagenes": [
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-469411.jpg?v=1756151289",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-909590.jpg?v=1759151766",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-300562.jpg?v=1759151766",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-860006.jpg?v=1759151766",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-380261.jpg?v=1759151766",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-223055.jpg?v=1759151766",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-pixon-celeste-zapatos-giani-dafirenze-926435.jpg?v=1759151766"
+      ],
+      "variantes": [
+        {
+          "variant_id": 43268124672043,
+          "sku": "GDF-PV26-PIXON-C11-35",
+          "talle": "35 / Celeste",
+          "precio": 59940.0,
+          "precio_tachado": 99900.0,
+          "disponible": false,
+          "imagen": null
+        },
+        {
+          "variant_id": 43268124704811,
+          "sku": "GDF-PV26-PIXON-C11-36",
+          "talle": "36 / Celeste",
+          "precio": 59940.0,
+          "precio_tachado": 99900.0,
+          "disponible": false,
+          "imagen": null
+        },
+        {
+          "variant_id": 43268124737579,
+          "sku": "GDF-PV26-PIXON-C11-37",
+          "talle": "37 / Celeste",
+          "precio": 59940.0,
+          "precio_tachado": 99900.0,
+          "disponible": false,
+          "imagen": null
+        },
+        {
+          "variant_id": 43268124770347,
+          "sku": "GDF-PV26-PIXON-C11-38",
+          "talle": "38 / Celeste",
+          "precio": 59940.0,
+          "precio_tachado": 99900.0,
+          "disponible": true,
+          "imagen": null
+        },
+        {
+          "variant_id": 43268124803115,
+          "sku": "GDF-PV26-PIXON-C11-39",
+          "talle": "39 / Celeste",
+          "precio": 59940.0,
+          "precio_tachado": 99900.0,
+          "disponible": false,
+          "imagen": null
+        },
+        {
+          "variant_id": 43268124835883,
+          "sku": "GDF-PV26-PIXON-C11-40",
+          "talle": "40 / Celeste",
+          "precio": 59940.0,
+          "precio_tachado": 99900.0,
+          "disponible": false,
+          "imagen": null
+        }
+      ]
+    },
+    {
+      "product_id": 8035546365995,
+      "handle": "babucha-mujer-guindo-beige",
+      "url": "https://gianidafirenze.cl/products/babucha-mujer-guindo-beige",
+      "nombre": "Babucha Mujer / Guindo Beige",
+      "marca": "Giani Dafirenze",
+      "tipo_shopify": "BABUCHAS",
+      "descripcion": "Diseñada para construir estilismos luminosos, sobrios y altamente versátiles, esta babucha de cuero para mujer resalta por su suave tonalidad beige y su refinada silueta en punta. Su correa regulable con hebilla bajo el tobillo proporciona una sujeción firme y adaptada a la anatomía del pie, mientras que el forro y la plantilla de cuero natural cuidan la piel, ofreciendo suavidad, flexibilidad y máxima respirabilidad en jornadas cálidas.\n\nSu base se compone de una suela de goma antiderrapante y un taco de madera de 3 cm pintado a mano, entregando ligereza, absorción del impacto y un soporte estable en todo momento. Un calzado femenino de cuero elaborado artesanalmente en Chile, perfecto para complementar vestidos, faldas y pantalones neutros durante la temporada Primavera-Verano.",
+      "caracteristicas": {
+        "Nombre": "Guindo C21",
+        "Color": "Beige",
+        "Capellada (material exterior)": "Cuero",
+        "Forro (material interior)": "Cuero",
+        "Plantilla": "Cuero",
+        "Suela": "Goma",
+        "Taco": "Madera Pintado a mano",
+        "Altura taco": "3 cm",
+        "Punta": "En punta",
+        "Horma": "Normal",
+        "Cierre": "Hebilla",
+        "Altura": "Bajo el tobillo",
+        "Estilo": "Babucha",
+        "Procedencia": "Hecho en Chile",
+        "Temporada": "Primavera Verano 2027"
+      },
+      "imagenes": [
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-guindo-beige-babuchas-giani-dafirenze-681761.jpg?v=1794868866",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/babucha-mujer-guindo-beige-babuchas-giani-dafirenze-716043.jpg?v=1794868748",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-guindo-beige-zapatos-giani-dafirenze-662508.jpg?v=1786461209",
+        "https://cdn.shopify.com/s/files/1/2596/0882/files/zapato-mujer-guindo-beige-zapatos-giani-dafirenze-788112.jpg?v=1786461241"
+      ],
+      "variantes": [
+        {
+          "variant_id": 44657315905579,
+          "sku": "GDF-PV27-GUINDO-C21-35",
+          "talle": "35 / Beige",
+          "precio": 67425.0,
+          "precio_tachado": 89900.0,
+          "disponible": false,
+          "imagen": null
+        },
+        {
+          "variant_id": 44657466540075,
+          "sku": "GDF-PV27-GUINDO-C21-36",
+          "talle": "36 / Beige",
+          "precio": 67425.0,
+          "precio_tachado": 89900.0,
+          "disponible": true,
+          "imagen": null
+        },
+        {
+          "variant_id": 44657466572843,
+          "sku": "GDF-PV27-GUINDO-C21-37",
+          "talle": "37 / Beige",
+          "precio": 67425.0,
+          "precio_tachado": 89900.0,
+          "disponible": false,
+          "imagen": null
+        },
+        {
+          "variant_id": 44657466605611,
+          "sku": "GDF-PV27-GUINDO-C21-38",
+          "talle": "38 / Beige",
+          "precio": 67425.0,
+          "precio_tachado": 89900.0,
+          "disponible": true,
+          "imagen": null
+        },
+        {
+          "variant_id": 44657466638379,
+          "sku": "GDF-PV27-GUINDO-C21-39",
+          "talle": "39 / Beige",
+          "precio": 67425.0,
+          "precio_tachado": 89900.0,
+          "disponible": true,
+          "imagen": null
+        },
+        {
+          "variant_id": 44657466671147,
+          "sku": "GDF-PV27-GUINDO-C21-40",
+          "talle": "40 / Beige",
+          "precio": 67425.0,
+          "precio_tachado": 89900.0,
+          "disponible": false,
+          "imagen": null
+        }
+      ]
+    },
     {
       "product_id": 15551139315755,
       "handle": "mochila-mujer-sauce-print",
@@ -18584,7 +18757,7 @@
           "talle": "40 / Negro",
           "precio": 77935.0,
           "precio_tachado": 119900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -22947,91 +23120,6 @@
           "talle": "40 / Azul",
           "precio": 49445.0,
           "precio_tachado": 89900.0,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 7657192783915,
-      "handle": "sandalia-mujer-candela-metalico",
-      "url": "https://gianidafirenze.cl/products/sandalia-mujer-candela-metalico",
-      "nombre": "Sandalia Mujer / Candela Metálico",
-      "marca": "Giani Dafirenze",
-      "tipo_shopify": "SANDALIAS",
-      "descripcion": "Brillo absoluto que transforma lo cotidiano ✨. Candela Metálico es frescura y modernidad en estado puro, una pieza que eleva cualquier outfit con un acabado luminoso y contemporáneo, ideal para destacar con estilo sin esfuerzo.\n\nCandela C2\n\nPrimavera Verano 2026.",
-      "caracteristicas": {
-        "Capellada (material exterior)": "Cuero",
-        "Forro (material interior)": "Cuero",
-        "Plantilla": "Cuero",
-        "Planta (suela)": "Goma",
-        "Taco": "Taco pintado",
-        "Altura del taco": "6 cm",
-        "Punta": "Punta abierta",
-        "Altura de la caña": "En el tobillo",
-        "Procedencia": "Importado"
-      },
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-152339.jpg?v=1759180288",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-408106.jpg?v=1759174744",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-738489.jpg?v=1759174744",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-350111.jpg?v=1759174744",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-222677.jpg?v=1759174744",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-616741.jpg?v=1759762112",
-        "https://cdn.shopify.com/s/files/1/2596/0882/files/sandalia-mujer-candela-metalico-sandalias-giani-dafirenze-656515.jpg?v=1759753631"
-      ],
-      "variantes": [
-        {
-          "variant_id": 43268111368235,
-          "sku": "GDF-PV26-CANDELA-C2-35",
-          "talle": "35 / Plateado",
-          "precio": 43945.0,
-          "precio_tachado": 79900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268111401003,
-          "sku": "GDF-PV26-CANDELA-C2-36",
-          "talle": "36 / Plateado",
-          "precio": 43945.0,
-          "precio_tachado": 79900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268111433771,
-          "sku": "GDF-PV26-CANDELA-C2-37",
-          "talle": "37 / Plateado",
-          "precio": 43945.0,
-          "precio_tachado": 79900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268111466539,
-          "sku": "GDF-PV26-CANDELA-C2-38",
-          "talle": "38 / Plateado",
-          "precio": 43945.0,
-          "precio_tachado": 79900.0,
-          "disponible": true,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268111499307,
-          "sku": "GDF-PV26-CANDELA-C2-39",
-          "talle": "39 / Plateado",
-          "precio": 43945.0,
-          "precio_tachado": 79900.0,
-          "disponible": false,
-          "imagen": null
-        },
-        {
-          "variant_id": 43268111532075,
-          "sku": "GDF-PV26-CANDELA-C2-40",
-          "talle": "40 / Plateado",
-          "precio": 43945.0,
-          "precio_tachado": 79900.0,
           "disponible": false,
           "imagen": null
         }
