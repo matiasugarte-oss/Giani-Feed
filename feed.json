@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-26T23:05:38.817546+00:00",
+  "generado": "2026-11-27T00:03:30.065800+00:00",
   "total": 408,
   "productos": [
     {
@@ -12155,7 +12155,7 @@
           "talle": "40 / Marrón",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -13572,7 +13572,7 @@
           "talle": "40 / Negro",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
