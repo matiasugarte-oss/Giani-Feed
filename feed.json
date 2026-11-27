@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T15:05:40.529671+00:00",
+  "generado": "2026-11-27T16:12:33.901479+00:00",
   "total": 406,
   "productos": [
     {
@@ -134,7 +134,7 @@
           "talle": "36 / Beige",
           "precio": 67425.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -22999,7 +22999,7 @@
           "talle": "36 / Celeste",
           "precio": 49445.0,
           "precio_tachado": 89900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         },
         {
@@ -28828,8 +28828,8 @@
           "variant_id": 43268151345195,
           "sku": "GDF-BANANO-ATENEA-C4-CAMEL",
           "talle": "Talla única / Marrón",
-          "precio": 139900.0,
-          "precio_tachado": null,
+          "precio": 118915.0,
+          "precio_tachado": 139900.0,
           "disponible": true,
           "imagen": null
         }
@@ -29312,8 +29312,8 @@
           "variant_id": 43268118839339,
           "sku": "GDF-BANANO-LINA-C1-NEGRO",
           "talle": "Talla única / Negro",
-          "precio": 89900.0,
-          "precio_tachado": null,
+          "precio": 76415.0,
+          "precio_tachado": 89900.0,
           "disponible": true,
           "imagen": null
         }
@@ -29343,8 +29343,8 @@
           "variant_id": 43268118708267,
           "sku": "GDF-BANANO-LINA-C3-NIQUEL",
           "talle": "Talla única / Plateado",
-          "precio": 89900.0,
-          "precio_tachado": null,
+          "precio": 76415.0,
+          "precio_tachado": 89900.0,
           "disponible": true,
           "imagen": null
         }
@@ -30032,8 +30032,8 @@
           "variant_id": 43268137451563,
           "sku": "GDF-BAN03-VENUS-C4-GRIS",
           "talle": "Talla única / gris",
-          "precio": 99900.0,
-          "precio_tachado": null,
+          "precio": 84915.0,
+          "precio_tachado": 99900.0,
           "disponible": true,
           "imagen": null
         }
@@ -30337,8 +30337,8 @@
           "variant_id": 43268152557611,
           "sku": "GDF-BAN03-VENUS-C2-METALICO",
           "talle": "Talla única / dorado",
-          "precio": 99900.0,
-          "precio_tachado": null,
+          "precio": 84915.0,
+          "precio_tachado": 99900.0,
           "disponible": true,
           "imagen": null
         }
@@ -30374,8 +30374,8 @@
           "variant_id": 43268152590379,
           "sku": "GDF-BAN03-VENUS-C1-NEGRO",
           "talle": "Talla única / negro",
-          "precio": 99900.0,
-          "precio_tachado": null,
+          "precio": 84915.0,
+          "precio_tachado": 99900.0,
           "disponible": true,
           "imagen": null
         }
@@ -31093,8 +31093,8 @@
           "variant_id": 43268152623147,
           "sku": "GDF-BANANO-ATENEA-C2-METALICO",
           "talle": "Talla única / plateado",
-          "precio": 139900.0,
-          "precio_tachado": null,
+          "precio": 118915.0,
+          "precio_tachado": 139900.0,
           "disponible": true,
           "imagen": null
         }
